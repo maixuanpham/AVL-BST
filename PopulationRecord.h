@@ -33,7 +33,7 @@ public:
         name = n;
     }
     string getCode()
-        {   return code; }
+    {   return code; }
     string getPopulation()
     {   return population; }
     string getName()
